@@ -1,4 +1,4 @@
-# image-based-product-recommender
+# Image-based Product Recommender System
 
 In this project, we capture visual features from IKEA's product images, which are then processed to retain essential information while reducing dimensional constraints. Following this, we employ a highly effective clustering algorithm, selected after a comparative analysis of accuracy across different methods, to group products based on image similarity. This system, therefore, provides users with essential recommendations, making it easier for them to explore and select products that fit seamlessly into their aesthetic vision.
 
